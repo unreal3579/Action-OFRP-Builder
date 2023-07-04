@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/unreal3579/device_xiaomi_ziyi'
+        default: 'https://github.com/unreal3579/device_xiaomi_ziyi_fox'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
